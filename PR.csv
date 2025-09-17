@@ -1,0 +1,6 @@
+﻿Pedido;Fecha ingreso;Tipo de envío;Cliente;Domicilio;Localidad;CP;Envio;Ubicación actual;Estado automático;Observaciones
+1;17/9/2025;STD;Distribuidora D.R.;Falcit Pagola 962;Zárate;B2800FOL;Estándar;Entregado;Recibiste tu pedido, que lo disfrutes;Entregar al día siguiente
+2;17/9/2025;URG;Distribuidora Rojas S.A.;Galileo 520;Zárate;B2800FOL;Urgente;En preparación;En preparación;Entregar hoy
+3;17/9/2025;PRG;Distribuidora De Golosinas S.A.;Catán 821;Zárate;B1846ABL;Programado;En centro de distribucion;En distribucion, falta poco;Entregar en dos días
+4;17/9/2025;PRG;Dimas compañía de golosinas S.A.;Cristi Raggio Larreta 763;Zárate;B1846ABL;Programado;En viaje;En camino;Entregar en dos días
+5;17/9/2025;URG;JC Market S.R.L.;Paseo Patria 1430;Tigre;B1617ABK;Urgente;Entregado;Recibiste tu pedido, que lo disfrutes;Entregar hoy

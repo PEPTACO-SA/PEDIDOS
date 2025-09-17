@@ -1,0 +1,7 @@
+﻿Pedido;Fecha ingreso;Tipo de envío;Cliente;Domicilio;Localidad;CP;Envío;Ubicación actual;Estado automático;Observaciones
+001;11/9/2025;URG;Distrigolo;Dr. Félix Pagola 962;Zarate;B2800FQO;Urgente;Entregado;Recibiste tu pedido, que lo disfrutes;Entregar hoy
+002;14/9/2025;PRG;Distribuidora Rojas;Av. Gallesio 620;Zarate;B2800FQO;Programado;En preparación;En preparación;Entregar en dos días
+003;14/9/2025;PRG;Distribuidora De Golosinas;Av. Cazón 812;Tigre;B1648EAL;Programado;En preparación;En preparación;Entregar en dos días
+004;14/9/2025;PRG;Golosinas;Dr. Félix Pagola 354;Zarate;B2800FQN;Programado;En preparación;En preparación;Entregar en dos días
+005;14/9/2025;STD;Dimas compañía de golosinas;Av. Crisólogo Larralde 763;Tigre;B1648EAC;Estándar;En preparación;En preparación;Entregar al día siguiente
+006;14/9/2025;STD;LC Market;Sáenz Peña 1430;Tigre;B1648EBB;Estándar;En preparación;En preparación;Entregar al día siguiente
